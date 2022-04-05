@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanalpay
 - 👀 I’m interested in blockchain development.
-- 🌱 I’m currently learning SageMaker.
+- 🌱 I’m currently learning PySpark.
 - 💞️ I’m looking to collaborate on GANs and DAOs.
 
 <!---
